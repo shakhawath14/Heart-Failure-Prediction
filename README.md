@@ -1,5 +1,4 @@
-# HEART FAILURE PREDICTION USING MACHINE
-LEARNING TECHNIQUES
+# HEART FAILURE PREDICTION USING MACHINE LEARNING TECHNIQUES
 
 ## Dataset:
 https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data?fbclid=IwAR2jD779kbxpJz3J0uXb0rONku7F9z8mqlAh4asBgZajrfNicTK9jLBHysk
